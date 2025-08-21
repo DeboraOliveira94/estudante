@@ -37,7 +37,7 @@ _ Trabalho em Equipe
 
 _ Soluções de Problema
 
-_ Metas e Prasos
+_ Metas e Prazos
 
 _ Feed Backs Construtivo Individual e em Equipe
 
