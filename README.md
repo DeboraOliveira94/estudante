@@ -1,6 +1,26 @@
 # Estudante
 Em constante aprendizado...
 
+ 👋 Olá, eu sou o Débora de Oliveira, pode me chamar de Deh
+
+🎓 Estudante de **Sistemas da Informação** na Universidade Salgado de Oliveira (Universo polo Belo Horizonte, MG)  
+💻 Apaixonado por **tecnologia, programação e bancos de dados**  
+🚀 Atualmente aprendendo **C++**, **SQL** e conceitos de **Logica de Programação e Algoritmo**)  
+
+---
+
+ 🛠️ Tecnologias e Ferramentas:
+- Linguagens: C, C++, SQL  
+- Banco de Dados: MySQL  
+- Ferramentas: Git, GitHub, VS Code
+
+---
+
+ 📚 O que estou estudando agora:
+- Estruturas de Dados e Lógica de Programação  
+- Banco de Dados Relacional (SQL)  
+- Desenvolvimento Web básico  
+
 Hard Skills:
 
 _ Superior Tecnologo em Design Gráfico: Incompleto
@@ -48,3 +68,13 @@ _ Comunicação:
 _ Escuta ativa
 
 _ Criativa.
+
+
+ 🌍 Onde me encontrar 
+- 📧 E-mail:deboraoliveiramendes1994@gmail.com  
+
+---
+
+⭐ *Sempre aprendendo e evoluindo no mundo da tecnologia!*
+
+
