@@ -1,4 +1,4 @@
-# Estudante
+# Junior in Information Systems
 Em constante aprendizado...
 
  👋 Olá, eu sou o Débora de Oliveira, pode me chamar de Deh
