@@ -3,7 +3,7 @@ Em constante aprendizado...
 
  👋 Olá, eu sou o Débora de Oliveira, pode me chamar de Deh
 
-🎓 Estudante de **Rede de Computadores ** universidade UNICV
+🎓 Estudante de **Rede de Computadores ** Universidade UNIBTA
 💻 Apaixonado por **tecnologia, programação, bancos de dados e segurança de rede**  
 🚀 Atualmente aprendendo **C++**, **SQL** e conceitos de **Logica de Programação, Algoritmo, Proteçao Rede e Servidores**)  
 
